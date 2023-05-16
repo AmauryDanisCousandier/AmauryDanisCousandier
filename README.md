@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing for the moment, I will try to complete my master as effectively as possible while doing my own projects
 - 📫 How to reach me: amaury.danis-cousandier@epitech.eu | contact@amaury-danis-cousandier.com
 
-(btw don't look at my website/portfolio/whatever, i'm just too lazy toi make it nice and neat or to even finish it, i don't particularly enjoy front end lmao)
+(btw don't look at my website/portfolio/whatever, I'm just too lazy to make it nice and neat or to even finish it, I don't particularly enjoy front end lmao)
 
 <!---
 AmauryDanisCousandier/AmauryDanisCousandier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
